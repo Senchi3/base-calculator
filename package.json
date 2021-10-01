@@ -1,0 +1,22 @@
+{
+  "name": "base-calculator",
+  "version": "1.0.0",
+  "description": "Calculates bases lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senchi3/base-calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Senchi3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Senchi3/base-calculator/issues"
+  },
+  "homepage": "https://github.com/Senchi3/base-calculator#readme"
+}
