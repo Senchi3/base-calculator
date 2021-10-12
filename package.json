@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Senchi3/base-calculator/issues"
   },
-  "homepage": "https://github.com/Senchi3/base-calculator#readme"
+  "homepage": "https://github.com/Senchi3/base-calculator#readme",
+  "dependencies": {}
 }
